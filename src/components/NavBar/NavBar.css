@@ -1,0 +1,23 @@
+/*Styles NavBar*/
+
+.nav{
+    background-color: rgb(236, 161, 133);
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-family: cursive;
+    text-decoration: none;
+}
+
+.nav-list{
+    list-style-type: none;
+}
+.home{
+    font-size: 3rem;
+    font-weight: 400;
+    background-color: rgb(236, 161, 133);
+}
+
+#root{
+    background-color: rgb(23, 255, 255);
+}
